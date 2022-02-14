@@ -1,6 +1,17 @@
 # Fisch-Solutions
  Version control for Fisch Solutions
 
-Client Page GitHub Pages Links
+Client GitHub Pages Links
 
-- Construction Industry https://mrjonathanandrews.github.io/Fisch-Solutions/clients-construction-industry.html
+- Construction https://mrjonathanandrews.github.io/Fisch-Solutions/clients-construction-industry.html
+- Government https://mrjonathanandrews.github.io/Fisch-Solutions/clients-government.html
+- Healthcare https://mrjonathanandrews.github.io/Fisch-Solutions/clients-healthcare.html
+- Legal & Law Firm https://mrjonathanandrews.github.io/Fisch-Solutions/clients-legal-and-law-firm.html
+- Nonprofits https://mrjonathanandrews.github.io/Fisch-Solutions/clients-nonprofits.html
+- Real Estate Agents https://mrjonathanandrews.github.io/Fisch-Solutions/clients-real-estate.html
+
+Solutions GitHub Pages Links
+- Cloud/IoT/Wireless https://mrjonathanandrews.github.io/Fisch-Solutions/solutions-cloud-iot-wireless.html
+- IT Outsource https://mrjonathanandrews.github.io/Fisch-Solutions/solutions-it-outsource.html
+- Structured Wiring https://mrjonathanandrews.github.io/Fisch-Solutions/solutions-structured-wiring.html
+- VoIP Phone https://mrjonathanandrews.github.io/Fisch-Solutions/solutions-voip-phone.html
