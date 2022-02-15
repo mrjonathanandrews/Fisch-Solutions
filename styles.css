@@ -15,6 +15,63 @@ li {
     margin: auto;
 }
 
+.row {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#custom-it-solutions {
+    text-align: center;
+}
+
+.solution-card {
+    max-width: 275px;
+    border: 1px solid white;
+    border-radius: 0.25em;
+    background-color: #a62525;
+    color: white;
+    margin: 0.5em;
+    padding: 1em;
+}
+
+#help-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5em;
+}
+
+@media screen and (max-width: 960px) {
+    #help-grid {
+        display: block;
+    }
+}
+
+.type-of-help {
+    display: flex;
+    justify-content: space-between;
+}
+
+.type-of-help > i {
+    flex: 0 0 10%;
+    font-size: 3em;
+    color: #a62525;
+    text-align: center;
+}
+
+.help-description {
+    flex: 0 0 85%;
+}
+
+.help-title {
+    margin: 0.25em 0 0;
+    color: #a62525;
+}
+
+.help-description > p {
+    margin: 0;
+}
+
 @media screen and (max-width: 576px) {
     .container {
         max-width: 100%;
